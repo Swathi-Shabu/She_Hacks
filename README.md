@@ -4,7 +4,8 @@
 Simple HTML page to convey our Vision
 Visit Our Website : https://swathi-shabu.github.io/She_Hacks/
 
-Team Members : 
+# Team Members :
+
 Hazeena R L - https://github.com/Hazeena-R-L
 
 Fathima Nazneen N U - 
