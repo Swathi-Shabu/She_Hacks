@@ -1,3 +1,11 @@
+![she](https://user-images.githubusercontent.com/83122148/132983512-05ba4b47-8b78-4382-ac4e-369be978460b.jpeg)
+
 # She_Hacks
 Simple HTML page to convey our Vision
 Visit Our Website : https://swathi-shabu.github.io/She_Hacks/
+
+Team Members : 
+Hazeena R L - https://github.com/Hazeena-R-L
+Fathima Nzneen N U - 
+Swathi Shabu - https://github.com/Swathi-Shabu
+
