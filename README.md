@@ -8,7 +8,7 @@ Visit Our Website : https://swathi-shabu.github.io/She_Hacks/
 
 Hazeena R L - https://github.com/Hazeena-R-L
 
-Fathima Nazneen N U - 
+Fathima Nazneen N U - https://github.com/fathimanazneen
 
 Swathi Shabu - https://github.com/Swathi-Shabu
 
